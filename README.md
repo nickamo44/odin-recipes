@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- Create a website for recipes with multiple webpages connect by links, populated with images, and with proper headings and paragraphs.  This project will also teach me how to properly store files on my computer as well as use git/github.-->
