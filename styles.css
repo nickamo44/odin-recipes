@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(122, 110, 60);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(207, 224, 56, 0.888);
+}
+
+h1{
+    font-family: fantasy;
+    color: peachpuff;
+}
+
+h2{
+    color:peachpuff;
+}
+
+p{
+    color:peachpuff;
+}
